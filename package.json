@@ -1,0 +1,16 @@
+{
+  "name": "autoPush",
+  "version": "1.0.0",
+  "description": "autoPush",
+  "dependencies": {
+    "chokidar": "^1.6.0",
+    "jsftp": "^1.5.3",
+    "shelljs": "^0.7.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0"
+  },
+  "author": "zkeyword",
+  "license": "ISC"
+}
